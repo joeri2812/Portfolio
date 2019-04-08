@@ -1,0 +1,6 @@
+framework:
+    templating:
+        engines: ['twig', 'php']
+    router:
+        strict_requirements: ~
+        utf8: true
